@@ -20,13 +20,13 @@ The complete testing documentation is organized into the following sheets:
 
 | # | Sheet                        | Description                                                                             |
 | - | ---------------------------- | --------------------------------------------------------------------------------------- |
-| 1 | 🧠 **Mind Map**              | Defines the overall testing scope and areas to be tested.                               |
-| 2 | 📋 **Test Plan**             | Contains the testing objectives, scope, approach, resources, and testing strategy.      |
+| 1 | 📋 **Test Plan**             | Contains the testing objectives, scope, approach, resources, and testing strategy.      |
+| 2 | 🧠 **Mind Map**              | Defines the overall testing scope and areas to be tested.                               |
 | 3 | 📝 **Test Scenario**         | Covers high-level scenarios derived from the application's features and requirements.   |
 | 4 | 🧪 **Test Case**             | Contains detailed test cases with steps, test data, expected and actual results.        |
 | 5 | 🐞 **Bug Report**            | Documents identified defects with reproduction steps, severity, priority, and evidence. |
-| 6 | 📊 **Test Execution Report** | Summarizes test execution results and overall testing status.                           |
-| 7 | 📈 **Test Summary Report**   | Provides an overall summary of testing activities, findings, and results.               |
+| 6 | 📈 **Test Case Summary Report**   | Provides an overall summary of testing activities, findings, and results.          |
+| 7 | 📊 **Test Matrix** | Provides a structured overview of test scenarios, test cases, modules, testing types, and their execution status. |
 
 ---
 
@@ -123,7 +123,6 @@ The objective of this project is to demonstrate practical QA skills in:
 * Test scenario design
 * Test case design
 * Test execution
-* Defect identification
 * Bug reporting
 * Test result analysis
 * QA documentation
