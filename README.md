@@ -7,9 +7,9 @@ This repository contains the complete **Manual Testing documentation** for **Oth
 The project demonstrates the end-to-end QA testing process, including test planning, test scenario design, test case preparation, test execution, and bug reporting.
 
 **Application:** Othoba.com<br>
-**Testing Type:** Manual Testing
-**Browser:** Google Chrome
-**Prepared By:** Mahmuda Binte Sayeed
+**Testing Type:** Manual Testing<br>
+**Browser:** Google Chrome<br>
+**Prepared By:** Mahmuda Binte Sayeed<br>
 **Reviewed By:** Sabiul Islam Rashed
 
 ---
