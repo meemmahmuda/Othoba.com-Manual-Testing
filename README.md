@@ -30,6 +30,11 @@ The complete testing documentation is organized into the following sheets:
 
 ---
 
+## 🧠 Mind Map
+<img width="890" height="1925" alt="Mind Map for Othoba com (3)" src="https://github.com/user-attachments/assets/4be7294b-89e3-4b5e-8a4d-14710aaef7ff" />
+
+---
+
 ## 🧪 Testing Scope
 
 The testing covers major e-commerce functionalities including:
@@ -132,5 +137,4 @@ The objective of this project is to demonstrate practical QA skills in:
 ## 👩‍💻 Tester
 
 **Mahmuda Binte Sayeed**
-Software QA Engineer | Manual Tester<img width="809" height="906" alt="Flight_Booking_Manual_Test_Cases_Mind_Map" src="https://github.com/user-attachments/assets/2498d99b-5347-4fff-a3ed-4168be4560f6" />
-
+Software QA Engineer | Manual Tester
