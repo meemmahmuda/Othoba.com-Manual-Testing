@@ -2,8 +2,6 @@
 
 ## 📌 Project Overview
 
-```
-
 This repository contains the complete **Manual Testing documentation** for **Othoba.com**, an e-commerce website.
 
 The project demonstrates the end-to-end QA testing process, including test planning, test scenario design, test case preparation, test execution, and bug reporting.
