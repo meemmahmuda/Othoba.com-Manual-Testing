@@ -128,9 +128,6 @@ Examples of identified issues include:
 Registration → Login → Home Page → Search / Category → Product Details
       → Wishlist / Cart → Payment → Order Placement → Order Tracking
 ```
-
----
-
 ---
 
 ## 📊 Test Summary (fill after execution)
