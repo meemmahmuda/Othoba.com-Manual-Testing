@@ -87,7 +87,7 @@ The complete testing documentation is organized into the following sheets:
 2. Review the preconditions and prepare the required test data.
 3. Perform each test case on the application.
 4. Compare the actual behavior with the expected result.
-5. Mark the status as **Pass**, **Fail**, or **Blocked**.
+5. Mark the status as **Pass**, **Fail**.
 6. For failures, log a defect with steps to reproduce, screenshots, and environment details.
 ---
 
