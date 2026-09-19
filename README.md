@@ -120,8 +120,6 @@ Examples of identified issues include:
 
 ---
 
----
-
 ## 🔗 End-to-End Flow Covered
 
 ```
